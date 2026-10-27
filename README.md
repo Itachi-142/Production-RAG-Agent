@@ -423,6 +423,26 @@ This project is licensed under the MIT License.
 
 ---
 
+---
+
+# 👨‍💻 My Contributions
+
+This repository is a personal fork of [Production RAG Agent](https://github.com/rounakkumarsah/Production-RAG-Agent), originally developed by Rounak Kumar Sah.
+
+### Work completed
+- Configured the local development environment using environment variables.
+- Started the backend services using Docker Compose.
+- Installed the frontend dependencies and launched the Next.js development server.
+- Verified that the dashboard loads and reports the backend dependencies as online.
+
+### Planned improvements
+- Test document ingestion, indexing, retrieval, and question answering end to end.
+- Add automated tests for important application functionality.
+- Improve documentation and error handling based on testing.
+
+
+
+
 # 👨‍💻 Author
 
 ## Rounak Kumar Sah
